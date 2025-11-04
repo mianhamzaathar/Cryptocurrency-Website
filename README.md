@@ -1,5 +1,5 @@
-
-#Cryptocurrency Website — Django, API Integration
+![cryp.png](https://github.com/mianhamzaathar/Cryptocurrency-Website/blob/main/cryp.png)
+# Cryptocurrency Website — Django, API Integration
 
 A cryptocurrency tracking platform providing real-time price data and market information.
 
